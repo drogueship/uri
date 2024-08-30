@@ -4,4 +4,4 @@ screenshot
 https://www.drogueship.com/wp-content/uploads/2024/08/uri.png
 
 post
-https://www.drogueship.com/index.php/2024/08/29/opening-programs-from-browsers-on-windows/
+https://www.drogueship.com/index.php/2024/08/30/opening-programs-from-browsers-on-windows/
